@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.*;
 
 public class SeleniumDemo {
-	
+	/* its just for verifying git repo*/
 	public static WebDriver driver;
 	@Test
 	public void LoginTest()
